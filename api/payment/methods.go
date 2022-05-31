@@ -11,7 +11,7 @@ const (
 	methodBankCard    = "bank_card"
 	methodApplePay    = "apple_pay"
 	methodGooglePay   = "google_pay"
-	methodYandexMoney = "yandex_money"
+	methodYandexMoney = "yoo_money"
 	methodSberBank    = "sberbank"
 	methodAlfaBank    = "alfabank"
 	methodTinkoffBank = "tinkoff_bank"
