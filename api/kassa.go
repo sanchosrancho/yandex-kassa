@@ -6,9 +6,9 @@ import (
 	"errors"
 	"net/http"
 
-	"github.com/GiddeonWyeth/yandex-kassa/api/client"
-	"github.com/GiddeonWyeth/yandex-kassa/api/info"
-	"github.com/GiddeonWyeth/yandex-kassa/api/payment"
+	"github.com/sanchosrancho/yandex-kassa/api/client"
+	"github.com/sanchosrancho/yandex-kassa/api/info"
+	"github.com/sanchosrancho/yandex-kassa/api/payment"
 )
 
 const apiURL = "https://api.yookassa.ru/v3"

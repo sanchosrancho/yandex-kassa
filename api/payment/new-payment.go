@@ -1,7 +1,7 @@
 package payment
 
 import (
-	"github.com/GiddeonWyeth/yandex-kassa/api/client"
+	"github.com/sanchosrancho/yandex-kassa/api/client"
 )
 
 type NewPayment struct {
